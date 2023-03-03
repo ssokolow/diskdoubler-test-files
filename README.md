@@ -68,8 +68,8 @@ license key
 by the original developer.
 
 **My copy of DiskDoubler was purchased as sealed New Old Stock** on eBay, and my
-used copy of StuffIt Deluxe 4.5, purchaesed on eBay, has a passage in its
-license that allows for the transfer of the license:
+used copy of StuffIt Deluxe 4.5, purchased on eBay, has a passage in its license
+that allows for the transfer of the license:
 
 > 3. OTHER RESTRICTIONS. You may not rent or lease the SOFTWARE, but **you may
 >    transfer the SOFTWARE and accompanying written materials on a permanent
@@ -80,7 +80,7 @@ Since I don't have a BinHex encoder on the drive I use for StuffIt Deluxe 4.5, I
 had to swap to my StuffIt Deluxe 6.5 drive to BinHex-encode the `.dd` "Bundled"
 archives. (Big thanks to whoever invented IDE-to-SD Card adapters.)
 
-That version of StuffIt doesn't _explicitly_ say the license is transferrable,
+That version of StuffIt doesn't _explicitly_ say the license is transferable,
 but it should be implicit in the passage I've bolded here:
 
 > The Software is owned by Aladdin Systems and is protected by United States
