@@ -135,17 +135,16 @@ journey.)
 
 ## Future Plans
 
-The option to create a self-extracting archive with DiskDoubler 3.7.7 seems to
-only be available via the INIT which crashes Finder under MacOS 9. Revisit this
-when I have a Macintosh capable of running System 6 or 7.
-
-Keep an eye out for any older copies of DiskDoubler which implement the "Old B"
-compression listed in DiskDoubler 3.7.7's Convert dialog and, while I'm _very_
-skeptical that I'll ever see one, let alone at a price I can afford, there's
-also a greyed out "Sigma" compression which apparrently had something to do with
-the
-[DoubleUp](https://archive.org/details/TNM_DiskDoubler_data_compression_card_for_Macinto_20171214_0204)
-NuBus hardware accelerator.
+- The option to create a self-extracting archive with DiskDoubler 3.7.7 seems to
+  only be available via the INIT which crashes Finder under MacOS 9. Revisit
+  this when I have a Macintosh capable of running System 6 or 7.
+- Keep an eye out for any older copies of DiskDoubler which implement the "Old
+  B" compression listed in DiskDoubler 3.7.7's Convert dialog and, while I'm
+  _very_ skeptical that I'll ever see one, let alone at a price I can afford,
+  there's also a greyed out "Sigma" compression which apparently had something
+  to do with the
+  [DoubleUp](https://archive.org/details/TNM_DiskDoubler_data_compression_card_for_Macinto_20171214_0204)
+  NuBus hardware accelerator.
 
 ## License
 
