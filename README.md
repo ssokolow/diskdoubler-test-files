@@ -135,6 +135,8 @@ journey.)
 
 ## Future Plans
 
+- Add some test files for the AutoDoubler Internal Compressor feature of
+  DiskDoubler Pro 4.1.1.
 - The option to create a self-extracting archive with DiskDoubler 3.7.7 seems to
   only be available via the INIT which crashes Finder under MacOS 9. Revisit
   this when I have a Macintosh capable of running System 6 or 7.
