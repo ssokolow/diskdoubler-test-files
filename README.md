@@ -135,8 +135,6 @@ journey.)
 
 ## Future Plans
 
-- Add some test files for the AutoDoubler Internal Compressor feature of
-  DiskDoubler Pro 4.1.1.
 - The option to create a self-extracting archive with DiskDoubler 3.7.7 seems to
   only be available via the INIT which crashes Finder under MacOS 9. Revisit
   this when I have a Macintosh capable of running System 6 or 7.
@@ -147,6 +145,17 @@ journey.)
   to do with the
   [DoubleUp](https://archive.org/details/TNM_DiskDoubler_data_compression_card_for_Macinto_20171214_0204)
   NuBus hardware accelerator.
+
+Also, unfortunately, pages 6-5 and 6-6 of the DiskDoubler Pro manual seem to
+imply that that redistribution of the AutoDoubler Internal Compressor expansion
+stub requires a special license, even if you don't bypass the lockout on running
+AIC-compressed programs on a system without AutoDoubler installed, so it looks
+like I won't be able to add an AIC-compressed "Hello, World!" program to this
+repository.
+
+(They only explicitly say that _use_ is restricted and to decompress
+AIC-compressed files before distributing, but copyright operates on a "default
+deny" basis.)
 
 ## License
 
